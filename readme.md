@@ -26,7 +26,13 @@ Lets add <a href="https://github.com/jaredh159/tailwind-react-native-classnames"
 
 Now just import 'tailwind-react-native-classnames' into component
 
+<h2>Doing the NavOptions</h2>
 
+In the NavOptions we will create an array and later with <FlatList/> its possible to do a foreach with property renderItem.
+
+Now we will use <a href="https://reactnativeelements.com/docs" target="_blank">React Native Elements</a>, just type "yarn add react-native-elements" to install this lib
+
+Next type "yarn add react-native-vector-icons" and "yarn add react-native-safe-area-context".
 
 
 
